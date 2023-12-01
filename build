@@ -1,0 +1,2 @@
+#!/usr/bin/zsh
+gcc main.c -o main -lSDL2 -lSDL2main -lSDL2_image
